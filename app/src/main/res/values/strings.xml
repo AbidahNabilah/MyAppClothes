@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyAppClothes</string>
+    <string name="content_text">T-Shirt atau kaus oblong pada awalnya digunakan
+        sebagai pakaian dalam tentara Inggris dan Amerika pada abad 19 sampai awal abad 20. Asal muasal nama inggrisnya,
+        T-shirt, tidak diketahui secara pasti. Teori yang paling umum diterima adalah nama T-shirt berasal dari bentuknya
+        yang menyerupai huruf "T", atau di karenakan pasukan militer sering menggunakan pakaian jenis ini sebagai "training shirt"
+        Kaus Wikimedia Bebaskan Pengetahuan Masyarakat umum belum mengenal penggunakan kaus atau T-Shirt dalam kehidupan sehari-hari.
+        Bahkan, para tentara yang menggunakan kaus oblong tanpa desain ini pun hanya menggunakannya ketika udara panas atau aktivitas-aktivitas
+        yang tidak menggunakan seragam. Ketika itu warna dan bentuknya (model) itu-itu melulu. Maksudnya, benda itu berwarna putih,
+        dan belum ada variasi ukuran, kerah dan lingkar lengan</string>
+    <string name="content_specs_baju">Baju Kaos</string>
+    <string name="content_specs_size"> S = C:61 A:40 B36,
+    M = C:64 A:43 B37, L = C:71 A:48 B42, XL = C:74 A:50 B44
+    </string>
+    <string name="content_specs_alamat">
+        TOKO AAA BUSANA
+    </string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="baju">Jenis Baju</string>
+    <string name="size">Size</string>
+    <string name="alamat">Toko</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Park Shin Hye</string>
+    <string name="des">Detail</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 13500K</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
